@@ -24,7 +24,9 @@ This app is only for macOS and it won't work Linux and Windows
 
 # Credits:
 Creator: Apophis
-Fus suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
+For suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
+
+E-mail: apophisdevs@protonmail.com
 
 (This app used to be called "eye care")
 
