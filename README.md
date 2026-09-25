@@ -22,13 +22,12 @@ This app is only for macOS and it won't work Linux and Windows
 - Quitting: You will only be able to quit the app in the app settings. (settings than the Advanced tab where you have the quit button).
 - Cooldown before quittng: This feature adds a cooldown before you can press the quit button. This feature can be turned off.
 
+
 # Credits:
 Creator: Apophis
+
 For suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
-
-E-mail: apophisdevs@protonmail.com
-
-(This app used to be called "eye care")
+or contact me through my e-mail: apophisdevs@protonmail.com
 
 Support me to be able to expand this project and other apps:
 
